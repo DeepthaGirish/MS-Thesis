@@ -1,3 +1,3 @@
- algorithm# MS-Thesis
+#MS-Thesis
 
 Find the optimal number of clusters in K-means
